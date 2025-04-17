@@ -19,10 +19,10 @@ Desenvolvido em .NET 6, este projeto oferece uma interface REST para gerar áudi
 # Exemplo utilizado para retorno
 
 {
-
-	"tex" : " mensagem sugerida "
-	" voice" : " ex: " pt-BR_V3Voice"
+  "text": "uma mensagem de exemplo.",
+  "voice": "pt-BR_V3Voice"
 }
+
 
 # retorno 200 ok
 ![Api](https://github.com/user-attachments/assets/97cabd05-bf15-4884-aaac-dfe98ffc4a20)
