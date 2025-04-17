@@ -1,0 +1,6 @@
+@TextSonorous_HostAddress = http://localhost:5213
+
+GET {{TextSonorous_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
