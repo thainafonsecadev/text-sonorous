@@ -1,8 +1,8 @@
 
 # TextSonorous - IBM Text to Speech API
 
-Transforme texto em voz com uma API simples, r·pida e integrada ao serviÁo *Text to Speech da IBM Cloud*.  
-Desenvolvido em .NET 6, este projeto oferece uma interface REST para gerar ·udios em MP3 a partir de entradas textuais.
+Transforme texto em voz com uma API simples, r√°pida e integrada ao servi√ßo *Text to Speech da IBM Cloud*.  
+Desenvolvido em .NET 6, este projeto oferece uma interface REST para gerar √°udios em MP3 a partir de entradas textuais.
 
 ---
 
@@ -25,11 +25,13 @@ Desenvolvido em .NET 6, este projeto oferece uma interface REST para gerar ·udio
 }
 
 # retorno 200 ok
-![Api](https://github.com/user-attachments/assets/bf65c46b-de4a-4764-9b99-2d85aa7650aa)
+![Api](https://github.com/user-attachments/assets/97cabd05-bf15-4884-aaac-dfe98ffc4a20)
+
 
 # Exemplo retorno 
 return BadRequest("O texto precisa ser preenchido");
-aqui o BadRequest foi utilizado no mÈtodo " Try Catch "
+aqui o BadRequest foi utilizado no m√©todo " Try Catch "
 
-# Resposta do erro quando o texto n„o esta preenchido 
-![ApiErro](https://github.com/user-attachments/assets/bc4ea8f1-6d01-46a3-90a0-b5d28eb23bdb)
+# Resposta do erro quando o texto n√£o esta preenchido 
+![ApiErro](https://github.com/user-attachments/assets/e94cab72-bef5-457b-acde-ca53ec3aed1f)
+
